@@ -31,6 +31,7 @@ namespace Brevo\Client;
 use \Brevo\Client\Configuration;
 use \Brevo\Client\ApiException;
 use \Brevo\Client\ObjectSerializer;
+use PHPUnit\Framework\TestCase;
 
 /**
  * AccountApiTest Class Doc Comment
@@ -40,27 +41,27 @@ use \Brevo\Client\ObjectSerializer;
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
-class AccountApiTest extends \PHPUnit_Framework_TestCase
+class AccountApiTest extends TestCase
 {
 
     /**
      * Setup before running any test cases
      */
-    public static function setUpBeforeClass()
+    protected static function setUpBeforeClass(): void
     {
     }
 
     /**
      * Setup before running each test case
      */
-    public function setUp()
+    protected function setUp(): void
     {
     }
 
     /**
      * Clean up after running each test case
      */
-    public function tearDown()
+    protected function tearDown(): void
     {
     }
 
