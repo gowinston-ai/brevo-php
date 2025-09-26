@@ -1,6 +1,6 @@
 {
-    "name": "getbrevo/brevo-php",
-    "description": "Official Brevo provided RESTFul API V3 php library",
+    "name": "gowinston-ai/brevo-php",
+    "description": "Official Winston AI Brevo provided RESTFul API V3 php library",
     "keywords": [
         "brevo",
         "swagger",
@@ -8,13 +8,13 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://github.com/getbrevo/brevo-php",
+    "homepage": "https://github.com/gowinston-ai/brevo-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Brevo Developers",
-            "email": "contact@brevo.com",
-            "homepage": "https://www.brevo.com/"
+            "name": "Winston AI Developers",
+            "email": "contact@winston.ai",
+            "homepage": "https://gowinston.ai"
         }
     ],
     "require": {
