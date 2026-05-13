@@ -23,7 +23,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^7.10.0",
-        "phpunit/phpunit": "13.1.7"
+        "phpunit/phpunit": "13.1.9"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "~3.13.4",
